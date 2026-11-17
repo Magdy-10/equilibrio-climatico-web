@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magdy-10.github.io/equilibrio-climatico-web/sitemap.xml
